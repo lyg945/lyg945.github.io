@@ -19,7 +19,7 @@ if [ -z "$GITHUB_TOKEN" ]; then
   githubUrl=git@github.com:lyg945/lyg945.github.io.git
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://lyg945: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@github.com/lyg945/lyg945.github.io.git
+  githubUrl=https://lyg945:${GITHUB_TOKEN}@github.com/lyg945/lyg945.github.io.git
   git config --global user.name "lyg945"
   git config --global user.email "lyg945@163.com"
 fi
