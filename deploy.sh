@@ -23,6 +23,9 @@ echo 'liuyonggang.com' > CNAME
 #   git config --global user.name "lyg945"
 #   git config --global user.email "lyg945@163.com"
 # fi
+git config --global user.name "lyg945"
+git config --global user.email "lyg945@163.com"
+
 git init
 git add -A
 git commit -m "deploy-----------------"
