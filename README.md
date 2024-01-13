@@ -4,13 +4,21 @@
 
 ## 说明
 
-麻烦`forks`的兄弟们把统计信息和广告信息清理掉一下，谢谢
+麻烦 `forks`的兄弟们把统计信息和广告信息清理掉一下，谢谢
 
 ## 期望
 
-但愿`GitHub`别倒闭了，让我可以拥有免费的网站服务器，能记录下我的想写想说。
+但愿 `GitHub`别倒闭了，让我可以拥有免费的网站服务器，能记录下我的想写想说。
 
 地址：[不器小窝](https://xingcxb.com)
+
+## aa
+
+百度统计 https://tongji.baidu.com
+
+谷歌统计 https://analytics.google.com
+
+百度站长 http://data.zz.baidu.com
 
 ## ⭐`Star 不器小窝`
 
